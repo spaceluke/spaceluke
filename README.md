@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Luke!
 
+- 🤪 A third-year student majoring in CS at Fuzhou University
+- 😺 Keen to contribute to open source communities
+- 📫 How to reach me: lukewei0125@foxmail.com
+- 🌱 I’m currently learning distributed systems, operating systems
+- 📦 Used to be a Java R&D intern at Meiya Pico
+- 😃 Also very interested in Computer Graphics
+- 😄 In Addition: A big fan of Nujabes music && Apex Ranked Season 14 Master 🤖👍
+
+ 
 <!--
 **BlackBear2003/BlackBear2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
