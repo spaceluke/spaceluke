@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning distributed systems, operating systems
 - 📦 Used to be a Java R&D intern at Meiya Pico
 - 😃 Also very interested in Computer Graphics
-- 😄 In Addition: A big fan of Nujabes music && Apex Ranked Season 14 Master 🤖👍
+- 🎧 A big fan of Nujabes‘ music
+- 🤖👍 Apex Ranked Season 14 Master
 
  
 <!--
