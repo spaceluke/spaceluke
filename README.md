@@ -7,7 +7,7 @@
 - 📦 Used to be a Java R&D intern at Meiya Pico
 - 😃 Also very interested in Computer Graphics
 - 🎧 A big fan of Nujabes‘ music
-- 🤖👍 Apex Ranked Season 14 Master
+- 🤖👍 Apex Legend Ranked Season 14 Master
 
  
 <!--
