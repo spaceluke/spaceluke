@@ -5,7 +5,7 @@
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🌱 I’m currently learning distributed systems, operating systems
 - 📦 Used to be a Java R&D intern at Meiya Pico
-- 😃 Also very interested in Computer Graphics
+- 😃 Apolloconfig contributor
 - 🎧 A big fan of Nujabes‘ music
 - 🤖👍 Apex Legend Ranked Season 14 Master
 
