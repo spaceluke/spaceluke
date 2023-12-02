@@ -2,11 +2,10 @@
 
 - 🤪 A third-year student majoring in CS at Fuzhou University
 - 😺 Keen to contribute to open source communities
+- 😃 Apolloconfig contributor
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🌱 I’m currently learning distributed systems, operating systems
 - 📦 Used to be a Java R&D intern at Meiya Pico
-- 😃 Apolloconfig contributor
-- 🎧 A big fan of Nujabes‘ music
 - 🤖👍 Apex Legend Ranked Season 14 Master
 
  
