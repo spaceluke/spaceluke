@@ -4,7 +4,7 @@
 - 😺 Open Source Enthusiast
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🤖👍 Apex Legend Ranked Season 14 Master
-
+- 🪵 I’m currently learning MIT6.824 lab4 ongoing...
  
 <!--
 **BlackBear2003/BlackBear2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
