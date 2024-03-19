@@ -5,7 +5,6 @@
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🤖👍 Apex Legend Ranked Season 14 Master
 - 🪵 I’m currently learning MIT6.824 lab4 ongoing...
-- F**k you Tencent
 
 ## Activity
 <div>
