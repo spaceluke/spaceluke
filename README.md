@@ -6,7 +6,7 @@
 
 
 
-<img height="300px" src="https://github.com/BlackBear2003/BlackBear2003/assets/94302726/8f5493e8-0f66-443d-91d8-21364eff4cd1" />
+<img height="200px" src="https://github.com/BlackBear2003/BlackBear2003/assets/94302726/e2e047e8-6796-467e-b689-05eca70739c6" />
 
 ## Activity
 <div>
