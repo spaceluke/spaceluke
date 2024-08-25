@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Luke!
 
-- 🤪 A third-year student majoring in CS at Fuzhou University
-- 🌱 Internship in Distributed Message System and cloud native at Xiaohongshu
+- 🤪 A student majoring in CS at Fuzhou University
+- 🌱 Internship in Distributed Message System and Cloud Native at Xiaohongshu
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🤖👍 Apex Legend Ranked Season 14 Master
 
