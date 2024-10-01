@@ -1,13 +1,14 @@
 ## Hi there 👋, I'm Luke!
 
 - 🤪 A student majoring in CS at Fuzhou University
-- 🌱 Internship in Distributed Message System and Cloud Native at Xiaohongshu
+- 🍟 Contributor of ApolloConfig distributed **configuration center**
+- 🌱 Participated in the cloud native R&D of **messaging system** in Xiaohongshu
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🤖👍 Apex Legend Ranked Season 14 Master
 
 
 
-<img height="200px" src="https://github.com/BlackBear2003/BlackBear2003/assets/94302726/e2e047e8-6796-467e-b689-05eca70739c6" />
+
 
 ## Activity
 <div>
@@ -19,7 +20,7 @@
 
 <!--
 **BlackBear2003/BlackBear2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img height="200px" src="https://github.com/BlackBear2003/BlackBear2003/assets/94302726/e2e047e8-6796-467e-b689-05eca70739c6" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
