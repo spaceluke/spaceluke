@@ -3,6 +3,7 @@
 - 🤪 A student majoring in CS at Fuzhou University
 - 🍟 Contributor of ApolloConfig distributed **configuration center**
 - 🌱 Interned in the cloud native R&D of **messaging system** at Xiaohongshu
+- 👨‍💻 Currently working on field of **logistics and warehousing** as backend at ByteDance
 - 📫 How to reach me: lukewei0125@foxmail.com
 - 🤖👍 Apex Legend Ranked Season 14 Master
 
