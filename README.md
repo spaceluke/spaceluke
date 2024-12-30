@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Luke!
 
 - 🤪 A student majoring in CS at Fuzhou University
-- 🍟 Contributor of ApolloConfig distributed **configuration center**
+- 🍟 Member of ApolloConfig distributed **configuration center**
 - 🌱 Interned in the cloud native R&D of **messaging system** at Xiaohongshu
 - 👨‍💻 Currently working as a **backend engineer** at ByteDance
 - 📫 How to reach me: lukewei0125@foxmail.com
