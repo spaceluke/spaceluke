@@ -2,7 +2,7 @@
 
 - 😉 Graduating from Fuzhou University major in CS
 - 🍟 Member of ApolloConfig distributed **configuration center**
-- 🌱 Interned in the cloud native R&D of **messaging system** at Xiaohongshu
+- 🌱 Interned as R&D of **messaging system** at Xiaohongshu
 - 👨‍💻 Currently working as a **backend engineer** at ByteDance
 - 📫 How to reach me: lukewei0125@foxmail.com
 
