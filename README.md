@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Luke!
+## Hi there 👋, I'm spaceluke!
 
 - 😉 Graduating from Fuzhou University major in CS
 - 🍟 Member of ApolloConfig distributed **configuration center**
 - 🌱 Interned as R&D of **messaging system** at Xiaohongshu
 - 👨‍💻 Currently working as a **backend engineer** at ByteDance
-- 📫 How to reach me: lukewei0125@foxmail.com
+- 📫 How to reach me: spaceluke@qq.com
 
 
 
@@ -12,8 +12,8 @@
 
 ## Activity
 <div>
-	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=BlackBear2003&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
-	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBear2003&layout=compact&hide_title=true&show_icons=trueline_height=21" />
+	<img height="150px" src="https://github-readme-stats.vercel.app/api?username=spaceluke&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
+	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaceluke&layout=compact&hide_title=true&show_icons=trueline_height=21" />
 	
 
 </div>
