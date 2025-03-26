@@ -2,7 +2,7 @@
 
 22-yo backend R&D using Golang and Java,
 
-Worked on messaging middleware before,
+Worked on middlewares before,
 
 Now focusing and working on backend architecture,
 
