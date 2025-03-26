@@ -6,7 +6,7 @@ Worked on middlewares before,
 
 Now focusing and working on backend architecture,
 
-Ppen source enthusiast, member of @apolloconfig.
+Open source enthusiast, member of @apolloconfig.
 
 📫 How to reach me: spaceluke@qq.com
 
