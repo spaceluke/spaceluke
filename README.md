@@ -2,11 +2,11 @@
 
 22-yo backend R&D using Golang and Java,
 
-Worked on middlewares before,
+worked on messaging middleware before,
 
-Now focusing and working on backend architecture,
+now focusing and working on backend architecture,
 
-Open source enthusiast, member of @apolloconfig.
+open source enthusiast, committer of @apolloconfig.
 
 📫 How to reach me: spaceluke@qq.com
 
