@@ -4,7 +4,7 @@
 
 worked on messaging middleware before,
 
-now focusing and working on backend architecture,
+now focusing and working on logistics & warehousing.
 
 open source enthusiast, committer of @apolloconfig.
 
