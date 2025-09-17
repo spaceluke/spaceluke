@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm spaceluke!
 
-Backend R&D using Golang and Java,
+Backend R&D using Golang/Java/Python,
 
-focusing and working on logistics & warehousing.
+working on logistics & warehousing at Bytedance.
 
 Open source enthusiast, committer of @apolloconfig.
 
